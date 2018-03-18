@@ -1,0 +1,3 @@
+https://github.com/sunbeez/xinxidalao.git  
+
+ssh£ºgit@github.com:sunbeez/xinxidalao.git      
